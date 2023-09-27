@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/movie-library/static/css/main.f1f68caa.css",
+    "main.js": "/movie-library/static/js/main.00e9d03a.js",
+    "static/js/859.a81c4aa4.chunk.js": "/movie-library/static/js/859.a81c4aa4.chunk.js",
+    "static/js/937.3ce3f7c4.chunk.js": "/movie-library/static/js/937.3ce3f7c4.chunk.js",
+    "static/js/540.ee0d65d1.chunk.js": "/movie-library/static/js/540.ee0d65d1.chunk.js",
+    "static/js/186.4a119898.chunk.js": "/movie-library/static/js/186.4a119898.chunk.js",
+    "static/js/314.caaa408e.chunk.js": "/movie-library/static/js/314.caaa408e.chunk.js",
+    "static/media/dark-theme-bg.jpg": "/movie-library/static/media/dark-theme-bg.5577d4e30919cc944f5f.jpg",
+    "static/media/header-inLibrary-desctop.jpg": "/movie-library/static/media/header-inLibrary-desctop.db3b3add221776a11e86.jpg",
+    "static/media/header-background-desktop-x1.jpg": "/movie-library/static/media/header-background-desktop-x1.cc9d76381dba8f7edace.jpg",
+    "static/media/mobile-menu-wallpaper.jpg": "/movie-library/static/media/mobile-menu-wallpaper.67d7c6f48cb24b6a2c27.jpg",
+    "static/media/header-background-tablet-x1.jpg": "/movie-library/static/media/header-background-tablet-x1.05402a4377c24acee85e.jpg",
+    "static/media/header-inLibrary-tablet.jpg": "/movie-library/static/media/header-inLibrary-tablet.878569bb63ea2402063f.jpg",
+    "static/media/mobile-header-background-1x.jpg": "/movie-library/static/media/mobile-header-background-1x.11b882366ae009ed3424.jpg",
+    "static/media/header-inLibrary-mobile.jpg": "/movie-library/static/media/header-inLibrary-mobile.c1de666a3abac71849d8.jpg",
+    "static/media/loginFormWallpaper.jpg": "/movie-library/static/media/loginFormWallpaper.170ee55cab4e41aa30ff.jpg",
+    "static/media/registerFormWallpaper.jpg": "/movie-library/static/media/registerFormWallpaper.059c90a1ac8903c56a53.jpg",
+    "static/media/onNoPoster.jpg": "/movie-library/static/media/onNoPoster.71d9264b65b1cb196457.jpg",
+    "static/media/onNoPosterLarge.jpg": "/movie-library/static/media/onNoPosterLarge.db2a0121216d1ba27859.jpg",
+    "index.html": "/movie-library/index.html",
+    "main.f1f68caa.css.map": "/movie-library/static/css/main.f1f68caa.css.map",
+    "main.00e9d03a.js.map": "/movie-library/static/js/main.00e9d03a.js.map",
+    "859.a81c4aa4.chunk.js.map": "/movie-library/static/js/859.a81c4aa4.chunk.js.map",
+    "937.3ce3f7c4.chunk.js.map": "/movie-library/static/js/937.3ce3f7c4.chunk.js.map",
+    "540.ee0d65d1.chunk.js.map": "/movie-library/static/js/540.ee0d65d1.chunk.js.map",
+    "186.4a119898.chunk.js.map": "/movie-library/static/js/186.4a119898.chunk.js.map",
+    "314.caaa408e.chunk.js.map": "/movie-library/static/js/314.caaa408e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f68caa.css",
+    "static/js/main.00e9d03a.js"
+  ]
+}
