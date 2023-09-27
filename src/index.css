@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@layer base {
+
+  h1,h2,h3,h4,h5,p,span,ul,li,button {
+    @apply m-0 p-0 text-center
+  }
+
+  ul {
+    @apply list-none
+  }
+
+  h2 {
+    @apply font-medium text-xl leading-6 desktop:text-3xl
+  }
+  h4 {
+    @apply text-xs
+  }
+
+}
+@layer components {
+  .flex-center-center {
+    @apply flex items-center justify-center
+  }
+  .movie-review-description-item {
+    @apply grid grid-cols-[75px_1fr] gap-x-10 items-start justify-items-start text-xs
+  }
+  .movie-review-description-item__name {
+    @apply text-[#8C8C8C] 
+  }
+  .movie-review-description-item__value {
+    @apply font-medium text-left flex
+  }
+  .vote-mark {
+    @apply w-9 h-4 rounded-md font-medium text-xs leading-[14px] text-white flex-center-center bg-customOrange
+  }
+  .library-control-button {
+    @apply block w-[120px] h-11 border border-black text-xs cursor-pointer rounded-md uppercase font-semibold
+    -translate-y-0.5 shadow-lg shadow-gray-600/30 active:translate-y-0 active:shadow-md
+    transition-[transform_shadow] duration-300 active:transition-none desktop:w-[136px]
+  }
+}
+.user-register-form-bg {
+    background-image: url('../src/images/registerFormWallpaper.jpg');
+} 
+.user-login-form-bg {
+  background-image: url('../src/images/loginFormWallpaper.jpg');
+}
+.auth-form-submit-btn {
+  background: linear-gradient(91.63deg, #FFB931 0.35%, #EAA318 99.45%);
+  font-family: 'Inter';
+  font-style: normal;
+} 
+
+

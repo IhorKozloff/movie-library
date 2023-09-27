@@ -1,0 +1,1 @@
+export type StaticGenresType = {id: number; name: string}[];
